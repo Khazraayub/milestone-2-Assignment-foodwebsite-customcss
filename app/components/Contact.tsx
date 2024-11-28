@@ -14,12 +14,12 @@ const Contact = () => {
 
         <div className='input-container'>
           
-          <input type="text" placeholder=' Name' className='input-field' />
+          <input type="text" placeholder=' Name:' className='input-field' />
         </div>
 
         <div className='input-container'>
        
-          <input type="text" placeholder='Email' className='input-field' />
+          <input type="text" placeholder='Email:' className='input-field' />
         </div>
 
         <div className='input-container'>
