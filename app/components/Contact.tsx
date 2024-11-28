@@ -14,17 +14,17 @@ const Contact = () => {
 
         <div className='input-container'>
           
-          <input type="text" placeholder='Enter Your Name' className='input-field' />
+          <input type="text" placeholder=' Name' className='input-field' />
         </div>
 
         <div className='input-container'>
        
-          <input type="text" placeholder='Enter Your Email' className='input-field' />
+          <input type="text" placeholder='Email' className='input-field' />
         </div>
 
         <div className='input-container'>
           
-          <input type="text" placeholder='Enter Your Mobile Number' className='input-field' />
+          <input type="text" placeholder='Mobile No:' className='input-field' />
         </div>
 
         <button className='contact-button'>Send </button>
